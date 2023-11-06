@@ -1,9 +1,9 @@
 # Golang
 
 ## Environment Setup
-- Pre-requisites
-- Installing Go
-- IDE
+- [Pre-requisites](./0_environment_setup/pre_requisits.md)
+- [Installing Go](./0_environment_setup/installing_go.md)
+- [IDE](./0_environment_setup/ide.md)
 
 ## Tooling
 - Tho Go tool
