@@ -1,7 +1,7 @@
 # Installing Go (Golang)
 
-Below you'll find the steps to install Go on different operating systems. For the most up-to-date installation methods and best practices, refer to the official Go downloads page at [https://go.dev/dl/](https://go.dev/dl/) .
-
+Below you'll find the steps to install Go on different operating systems. For the most up-to-date installation methods and best practices, refer to the official Go downloads page at [https://go.dev/dl/](https://go.dev/dl/)
+> Note: Unlike other languages that require a separate runtime environment to be installed, such as Java's JVM or .NET for C#, Go programs compile to a single binary with the Go runtime statically linked. This means that Go programs can be run on any supported system without the need for installing Go or any additional runtime software. Go's runtime includes features like [garbage collection](#TODO), [goroutine scheduling](#TODO), and more, all contained within the compiled binary.
 ## Mac
 If you use a Mac for development, you can install Go using [Homebrew](https://formulae.brew.sh/) using the command
 ```

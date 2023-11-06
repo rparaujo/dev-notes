@@ -10,6 +10,9 @@ After you install VSCode you need to add support for Go by installing the [Go ex
 ## *VIM
 `# TODO`
 
+## Go Playground
+`# TODO`
+
 <div style="text-align: center;">
 
 [Previous](./installing_go.md) | [Home](../README.md#environment-setup) | [Next](#TODO)
