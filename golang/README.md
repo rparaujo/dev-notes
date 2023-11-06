@@ -6,10 +6,10 @@
 - [IDE](./00_environment_setup/ide.md)
 
 ## Tooling
-- Tho Go tool
-- Formatting
-- Linting
-- Make
+- [Tho Go tool](./01_tooling/the_go_tool.md)
+- [Formatting](./01_tooling/formatting.md)
+- [Linting](./01_tooling/linting.md)
+- [Make](./01_tooling/make.md)
 
 ## Program Structure
 - Names
