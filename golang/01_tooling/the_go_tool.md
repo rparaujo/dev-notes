@@ -32,5 +32,5 @@ go install <path-to-tool>
 By default the third party Go tools are installed in the default Go workspace in _$HOME/go_ with their source code stored in _$HOME/go/src_ and the compiled binaries in _$HOME/go/bin_.
 If you whish to change the default Go workspace, you can do so by setting the `GOPATH` environment variable.
 
-
+[Previous](../00_environment_setup/ide.md) | [Home](../README.md#environment-setup) | [Next](./formatting.md)
 

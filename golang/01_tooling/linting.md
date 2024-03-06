@@ -18,3 +18,5 @@ golangci-lint run
 ```
 You can configure the linters that `golangci` runs by including a `.golangci.yaml` file in your project.
 Check the [documentation](https://golangci-lint.run/usage/linters/) for available linters and their configurations.
+
+[Previous](./formatting.md) | [Home](../README.md#environment-setup) | [Next](./make.md)

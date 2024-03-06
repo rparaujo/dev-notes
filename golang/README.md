@@ -12,7 +12,7 @@
 - [Make](./01_tooling/make.md)
 
 ## Program Structure
-- Names
+- [Names](./02_program_structure/names.md)
 - Declarations
 - Variables
 - Assignments
